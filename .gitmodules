@@ -1,0 +1,12 @@
+[submodule "IMT_Bank_System"]
+	path = IMT_Bank_System
+	url = git@github.com:Piistachyoo/IMT_Bank_System.git
+[submodule "String_Library"]
+	path = String_Library
+	url = git@github.com:Piistachyoo/String_Library.git
+[submodule "Student_Information_Management"]
+	path = Student_Information_Management
+	url = git@github.com:Piistachyoo/Student_Information_Management.git
+[submodule "Clinic-Management-System"]
+	path = Clinic-Management-System
+	url = git@github.com:Piistachyoo/Clinic-Management-System.git
